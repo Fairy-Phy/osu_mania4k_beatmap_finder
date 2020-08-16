@@ -1,0 +1,17 @@
+{
+  "name": "osu_mania4k_beatmap_finder",
+  "version": "0.1.2",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "(Fairy)Phy",
+  "license": "MIT"
+}
