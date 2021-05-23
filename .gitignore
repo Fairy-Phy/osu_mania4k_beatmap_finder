@@ -1,5 +1,8 @@
 config.json
 errorlog.log
-result_ids.txt
+*.txt
+*.json
+!config.template.json
+db_inserter.js
 
 node_modules

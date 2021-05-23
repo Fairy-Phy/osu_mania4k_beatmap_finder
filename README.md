@@ -1,5 +1,5 @@
 # osu!mania 4k Beatmap Finder
 
-Pending, WIP, Graveyard以外の4Kmapを検索するためのやつ
+To search for 4Kmaps other than Pending, WIP and Graveyard.
 
-``config.template.json``を``config.json``に変えること
+Change ``config.template.json`` to ``config.json``

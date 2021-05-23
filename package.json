@@ -5,10 +5,10 @@
   "main": "main.js",
   "dependencies": {
     "blessed": "^0.1.81",
+    "firebase-admin": "^9.1.0",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "node main.js"
   },
